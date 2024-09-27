@@ -1,0 +1,16 @@
+/* desafio 1 */
+.red-border {
+  border: 5px solid red;
+}
+
+hr {
+  height: 2px;
+  background-color: rgb(25, 0, 255);
+}
+
+/* desafio 2 */
+.stickers {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
